@@ -3,7 +3,7 @@ import time
 import random
 from concurrent.futures import ThreadPoolExecutor
 
-API_KEY = '9oVP1ot5B35fV3VORyiNtjNfC_S813M_'  # Replace with your actual CSFloat API key
+API_KEY = 'xxx' 
 API_URL = 'https://csfloat.com/api/v1/listings'
 HEADERS = {
     'Authorization': f'{API_KEY}'
